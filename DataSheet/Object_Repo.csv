@@ -1,0 +1,41 @@
+Field_name,Field_locator_name,Field_locator_value
+email,xpath,//input[@name='email']
+password,xpath,//input[@name='password']
+login,xpath,//button[@ type='submit']
+ssn_radio,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/div/div/label[2]/span[1]/input"
+ssn,xpath,//input[@name='ssn']
+first_name,xpath,//input[@name='firstname']
+last_name,xpath,//input[@name='lastname']
+date,xpath,//input[@name='date']
+zipcode,xpath,//input[@name='zipcode']
+proceed,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/button"
+reg_sucess_popup,xpath,"//*[contains(text(),'User Verified Successfully.')]"
+email_reg,xpath,//input[@name='email']
+phone_no,xpath,//input[@name='phonenumber']
+password_reg,xpath,//input[@name='password']
+confirm_reg,xpath,//input[@name='confirmpassword']
+accept_radio,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div[2]/input"
+create_account,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div[3]/button[2]"
+otp,xpath,//input[@name='otp']
+verify,xpath,//button[@ type='button']
+login_href,xpath,"//a[contains(@href,'login')]"
+ssn_idcard,xpath,"//*[@id=""mui-10""]/div/img"
+logo,xpath,"//*[@id=""root""]/main/div[1]/div/img"
+new_user_reg,xpath,"//*[@id=""root""]/main/div[2]/div[2]/span"
+terms_condition,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div[2]/div/div[1]/button[1]"
+tc_ok,xpath,/html/body/div[2]/div[3]/div/div[2]/button
+privacy_policy,xpath,"//*[@id=""root""]/main/div[2]/div[2]/div[2]/form/div[2]/div/div[1]/button[2]"
+pp_ok,xpath,/html/body/div[2]/div[3]/div/div[2]/button
+ac_created_pop,xpath,"//*[contains(text(),'Account Created Successfully.')]"
+otp_sent_pop,xpath,"//*[contains(text(),'OTP Sent Successfully.')]"
+forgots,xpath,"//a[contains(@href,'forgotPassword')]"
+acc_link_phoneno,xpath,//input[@name='phonenumber']
+send_otp,xpath,//button[@class='MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-fullWidth MuiButtonBase-root  css-124440u']
+forgot_enter_otp,xpath,//input[@name='otp']
+sent_changes,xpath,//button[@type='button']
+new_password,xpath,//input[@name='password']
+confirm_password,xpath,//input[@name='confirmpassword']
+change_password,xpath,//button[@type='submit']
+forgot_password_heading,xpath,//span[@class='MuiTypography-root MuiTypography-title css-1qwpbkh']
+new_password_heading,xpath,//span[@class='MuiTypography-root MuiTypography-title css-1qwpbkh']
+logo_home,xpath,//img[@src='https://member-portal-resources.s3.amazonaws.com/affiliate1/bcbsLogoNew.svg']

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Runner_file.TestSuite
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.482 s - in Runner_file.TestSuite
